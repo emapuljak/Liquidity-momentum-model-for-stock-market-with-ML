@@ -1,5 +1,5 @@
-# Liquidity-momentum-model-for-stock-market-with-ML
-Liquidity and momentum model for stock market movements based on machine learning algorithms
+# Liquidity momentum model for stock market with ML
+Liquidity and momentum model for stock market movements based on machine learning algorithms.
   The goal was to develop a model based on machine learning methods, which could, based on an assessment of the trends of individual stock and its liquidity, explain the future movement of the stock return. Comparing multiple simple and complicated machine learning models.
 
  - models.ipynb -> Linear regression, Decision Tree, SVM, MLP, LSTM
